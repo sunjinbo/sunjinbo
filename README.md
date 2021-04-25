@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunjinbo, living in Beijing, and do coding more than 15 years, especially familiar with Java/C#/C++/Python and mobile dev.
-- 🌱 I’m currently learning Android, Mathematics, OpenGL ES, Deep learning and multimedia technology etc.
-- 💞️ Github is a great site for developers to collaboratively work on code, hopefully I can meet some good friends at here.
+- 👋 Hi, I’m @sunjinbo, living in Beijing, and do coding nearly 2 decades, especially familiar with Java/C#/C++ programming.
+- 🌱 I’m currently interesting Android, Graphic/OpenGL, machine learning and multimedia etc.
+- 💞️ Github is a great site for developers to collaboratively work on code, hopefully I can meet some friends at here.
 - 📫 How to reach me? Send e-mail via sunjinbo@outlook.com
 
 <!---
